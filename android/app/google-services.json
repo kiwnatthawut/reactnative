@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988103811199",
+    "project_id": "ever-medical-tech-test",
+    "storage_bucket": "ever-medical-tech-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988103811199:android:839a835015faf1f90c1f4a",
+        "android_client_info": {
+          "package_name": "com.reactnativetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988103811199-gvfelk94hn25a64fsqjje0guaold0fe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdDvn1nHBaZKC34d8KR-nFACdOhEaJaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988103811199-gvfelk94hn25a64fsqjje0guaold0fe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
